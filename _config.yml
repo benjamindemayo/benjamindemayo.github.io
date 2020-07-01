@@ -28,7 +28,7 @@ twitter_username: bennydemayo
 github_username:  benjamindemayo
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
