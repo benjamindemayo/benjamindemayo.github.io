@@ -29,3 +29,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 
 gem "kramdown-parser-gfm", "~> 1.1"
+
+gem "jekyll-theme-cayman", "~> 0.1.1"
