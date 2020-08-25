@@ -20,5 +20,3 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 
 gem "kramdown-parser-gfm", "~> 1.1"
-
-remote_theme: "mmistakes/minimal-mistakes@4.20.1"
