@@ -249,12 +249,9 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
-<<<<<<< HEAD
   jekyll-include-cache
   kramdown-parser-gfm (~> 1.1)
-=======
   minima (~> 2.5)
->>>>>>> parent of 477b6ca... add kramdown parser
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
